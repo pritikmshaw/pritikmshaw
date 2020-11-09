@@ -12,5 +12,9 @@
 - 😄 Pronouns: **She/Her**
 - ⚡ Fun fact: **Obsessed with Vampires** 
 
+### 🌱 Github Stats
+![github stats](https://github-readme-stats.vercel.app/api?username=pritikmshaw&count_private=true&show_icons=true&theme=prussian)
 
-<img src="https://github-readme-stats.vercel.app/api?username=pritikmshaw&show_icons=true&theme=prussian&count_private=true" width="47%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pritikmshaw&layout=compact&theme=prussian" width="46.6%"> 
+### ⚡ My most used Languages 
+ <!--![github stats](https://github-readme-stats.vercel.app/api?username=pritikmshaw&show_icons=true&theme=radical)-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pritikmshaw&layout=compact&theme=prussian)](https://github.com/pritikmshaw)
