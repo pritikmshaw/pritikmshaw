@@ -10,7 +10,7 @@
 - 📱 Linked in profile: **https://www.linkedin.com/in/priti-shaw-b5a72b1ab/**
 - 🦋Instagram id: **https://www.instagram.com/prityshaw1800/?hl=en**
 - 😄 Pronouns: **She/Her**
-- ⚡ Fun fact: **Obsessed with Vampires** 
+- ⚡ Fun fact: **Obsessed with Vampires and love to watch Kdrama** 
 
 ### 🌱 Github Stats
 ![github stats](https://github-readme-stats.vercel.app/api?username=pritikmshaw&count_private=true&show_icons=true&theme=prussian)
