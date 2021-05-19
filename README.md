@@ -11,7 +11,7 @@
 - 🦋Instagram id: **https://www.instagram.com/prityshaw1800/?hl=en**
 - 🎼 YouTube Channel: **https://www.youtube.com/channel/UC-WG1hvITTrv6_rKHJVgaqg**
 - 😄 Pronouns: **She/Her**
-- ⚡ Fun fact: **Obsessed with Vampires and love to watch Kdrama** 
+- ⚡ Fun fact: **I am a WayFarer... and addicted Kdrama....** 
 
 ### 🌱 Github Stats
 ![github stats](https://github-readme-stats.vercel.app/api?username=pritikmshaw&count_private=true&show_icons=true&theme=prussian)
