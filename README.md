@@ -9,7 +9,6 @@
 - 📫 How to reach me: **pritikmshaw18@gmail.com**
 - 📱 Linked in profile: **https://www.linkedin.com/in/priti-shaw-b5a72b1ab/**
 - 🦋Instagram id: **https://www.instagram.com/prityshaw1800/?hl=en**
-- 🎼 YouTube Channel: **https://www.youtube.com/channel/UC-WG1hvITTrv6_rKHJVgaqg**
 - 😄 Pronouns: **She/Her**
 - ⚡ Fun fact: **I am a WayFarer... and addicted Kdrama....** 
 
