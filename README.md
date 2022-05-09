@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on: **Cool, fun projects surrounding App Development**
 - 📫 How to reach me: **pritikmshaw18@gmail.com**
 - 📱 Linked in profile: **https://www.linkedin.com/in/priti-shaw-b5a72b1ab/**
-- 🦋Instagram id: **https://www.instagram.com/prityshaw1800/?hl=en**
+- 🦋Instagram id: **https://www.instagram.com/prity._.shaw/?hl=en**
 - 😄 Pronouns: **She/Her**
 - ⚡ Fun fact: **I am a WayFarer... and addicted Kdrama....** 
 
