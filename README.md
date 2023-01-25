@@ -1,7 +1,7 @@
 ## Hey there ! I'm Priti Shaw<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 ### *Completed my graduation 🎓 from Calcutta Institute of Engineering and Management in Computer Science and Engineering 🧑‍💻*
 
-- 🔭 I'm highly interested in **Android and Web Development**
+- 🔭 I'm highly interested in **UI/UX Designing and Web Development**
 - 👯 I’m looking to collaborate on: **Cool, fun projects surrounding App Development**
 - 📫 How to reach me: **pritikmshaw18@gmail.com**
 - 📱 Linked in profile: **https://www.linkedin.com/in/priti-shaw-b5a72b1ab/**
