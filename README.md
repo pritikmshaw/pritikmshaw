@@ -15,3 +15,9 @@
 ### ⚡ My most used Languages 
  <!--![github stats](https://github-readme-stats.vercel.app/api?username=pritikmshaw&show_icons=true&theme=radical)-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pritikmshaw&layout=compact&theme=prussian)](https://github.com/pritikmshaw)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pritikmshaw&show_icons=true&locale=en&layout=compact" alt="pritikmshaw" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shalini-tiwari&show_icons=true&locale=en" alt="shalini-tiwari" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shalini-tiwari&" alt="shalini-tiwari" /></p>
